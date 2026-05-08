@@ -4,7 +4,7 @@
     <name>Test</name>
     <description>A test to get Github working.</description>
     <update version="0.0.1">
-      <file name="text.xml" url="" />
+      <file name="text.xml" url="https://raw.githubusercontent.com/HeyItNothing/Entemar-Campaign/refs/heads/main/test.xml" />
     </update>
   </info>
 
