@@ -4,7 +4,7 @@
     <name>Test</name>
     <description>A test to check what I am doing wrong</description>
     <update version="0.0.1">
-      <file name="test.index" url="" />
+      <file name="test.index" url="https://raw.githubusercontent.com/HeyItNothing/Entemar-Campaign/refs/heads/main/test.index" />
     </update>
   </info>
   <files>
